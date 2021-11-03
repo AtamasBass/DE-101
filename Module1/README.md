@@ -1,4 +1,4 @@
-:arrow_left: [To modules folder](https://github.com/AtamasBass/DE-101)
+:arrow_left: [To modules list](https://github.com/AtamasBass/DE-101)
 # Module 1
 ## Create Git repository 
 ## 1. Analytical Solution Architecture (Created by Draw.io)
