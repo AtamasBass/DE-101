@@ -1,4 +1,4 @@
-:arrow_left: [To modules folder](https://github.com/AtamasBass/DE-101)
+:arrow_left: [To modules list](https://github.com/AtamasBass/DE-101)
 # Module 2
 ## 2.2 Database
 ### 2.2.1 Install PostgreSQL
