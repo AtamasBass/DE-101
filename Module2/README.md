@@ -17,6 +17,8 @@
 ![Logical schema](https://raw.githubusercontent.com/AtamasBass/DE-101/master/Module2/2.4_Data_models/2.4-1_Logical_model.png)
 #### Physical schema
 ![Physics schema](https://raw.githubusercontent.com/AtamasBass/DE-101/master/Module2/2.4_Data_models/2.4-1_Physics_model.png)
+### 2.4.2 Create new tables with [DDL from SqlDBM](https://github.com/AtamasBass/DE-101/blob/master/Module2/2.4_Data_models/2.4-2_Create(SqlDBM_PostgreSQL).sql)
+### 2.4.3 Upload data to [new tables](https://github.com/AtamasBass/DE-101/blob/master/Module2/2.4_Data_models/2.4-3_Upload_data.sql)
 ## 2.5. AWS
 ![]()
 ## 2.6 BI
